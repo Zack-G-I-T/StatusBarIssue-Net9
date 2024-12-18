@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestStatusBar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9b7fac2f081f189e01415a5e6a8f8bae52bf808f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestStatusBar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestStatusBar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
